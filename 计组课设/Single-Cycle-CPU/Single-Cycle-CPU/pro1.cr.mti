@@ -1,0 +1,99 @@
+C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ALU.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ALU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux1.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux1.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux1
+
+Top level modules:
+	mux1
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/pc.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/controller.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/controller.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/im_lk.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/im_lk.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_lk
+
+Top level modules:
+	im_lk
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ifu.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ifu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ifu
+
+Top level modules:
+	ifu
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux2.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux2.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux3.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux3.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/test_mips.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/test_mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module test_mips
+
+Top level modules:
+	test_mips
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/gpr.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/gpr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module gpr
+
+Top level modules:
+	gpr
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/dm_1k.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/dm_1k.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_1k
+
+Top level modules:
+	dm_1k
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/calculate_pc.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/calculate_pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module calculate_pc
+
+Top level modules:
+	calculate_pc
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mips.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ext.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ext.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ext
+
+Top level modules:
+	ext
+
+} {} {}}

@@ -1,0 +1,478 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Lynne\Desktop\u\CPU
+vA_reg
+V8R8R2mM_A@>kGNHEUdd]02
+r1
+31
+I:TMK5LNG8Tl;YQnlO?j>z1
+Z0 dC:\Users\Lynne\Desktop\u\Microsystem
+w1656562996
+8C:/Users/Lynne/Desktop/u/Microsystem/A_reg.v
+FC:/Users/Lynne/Desktop/u/Microsystem/A_reg.v
+L0 1
+Z1 OE;L;10.1a;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a_reg
+!i10b 1
+!s85 0
+!s100 C_2;MgDlE6?jdda9glfe@2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/A_reg.v|
+!s108 1657040463.226000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/A_reg.v|
+vALU
+Vo5g`nGH5fcRhDcD6W6TWV2
+r1
+31
+IdQc3Ck]1f923eD>LeQ>lJ0
+Z3 dC:\Users\Lynne\Desktop\u\Microsystem
+w1657022730
+8C:/Users/Lynne/Desktop/u/Microsystem/ALU.v
+FC:/Users/Lynne/Desktop/u/Microsystem/ALU.v
+L0 1
+R1
+R2
+n@a@l@u
+!i10b 1
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/ALU.v|
+!s100 iRKc241EEOhCQAz_5Co<W2
+!s108 1657040463.383000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/ALU.v|
+vALU_reg
+Vl6bD^j?LK[f0;LL7R;n>o1
+r1
+31
+IkY;75;::z;h:KanW3C;^R2
+R3
+w1656563001
+8C:/Users/Lynne/Desktop/u/Microsystem/ALU_reg.v
+FC:/Users/Lynne/Desktop/u/Microsystem/ALU_reg.v
+L0 1
+R1
+R2
+n@a@l@u_reg
+!i10b 1
+!s85 0
+!s100 Z6SfK5?8[PeYPiSNe9`Z@3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/ALU_reg.v|
+!s108 1657040463.547000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/ALU_reg.v|
+vB_reg
+Vj>;=QU^oCih0QALmQcNDa3
+r1
+31
+IL@PbQV<CD3i]@?4_93VN>2
+R3
+w1656563006
+8C:/Users/Lynne/Desktop/u/Microsystem/B_reg.v
+FC:/Users/Lynne/Desktop/u/Microsystem/B_reg.v
+L0 1
+R1
+R2
+n@b_reg
+!i10b 1
+!s85 0
+!s100 46Mm?:i4]:GeTFSTJPeYM0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/B_reg.v|
+!s108 1657040463.667000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/B_reg.v|
+vbridge
+V7ZTE0`PLeFzV0LW8U`9m:1
+r1
+31
+Iaz40AKSCm[z13bgc7_f>H3
+R3
+w1656435904
+8C:/Users/Lynne/Desktop/u/Microsystem/bridge.v
+FC:/Users/Lynne/Desktop/u/Microsystem/bridge.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 X[zbPogEZBiUcgUKF@zJH3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/bridge.v|
+!s108 1657040466.329000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/bridge.v|
+vcontroller
+VXi9hR8RZBjC^_3LdE>=nd2
+r1
+31
+I318:NN1L3fo`^1LM<cbFZ3
+R3
+w1656610351
+8C:/Users/Lynne/Desktop/u/Microsystem/controller.v
+FC:/Users/Lynne/Desktop/u/Microsystem/controller.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 42_=4HaH1NohlXcWQ=]092
+!s108 1657040463.803000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/controller.v|
+vcp0
+VJFg;@IXQe6C@Ie:I]cOzZ3
+r1
+31
+INX6R3f^GWA0S=:Jeb[`?M2
+R3
+w1656616127
+8C:/Users/Lynne/Desktop/u/Microsystem/cp0.v
+FC:/Users/Lynne/Desktop/u/Microsystem/cp0.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 dTj93YL5beJ0lE^68<U;Q3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/cp0.v|
+!s108 1657040466.093000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/cp0.v|
+vdm_1k
+V`TdR@i92RF=]a23I:hM2B3
+r1
+31
+IWVaWc`b8J9]4zB_?]NTTC2
+R3
+w1656561928
+8C:/Users/Lynne/Desktop/u/Microsystem/dm_1k.v
+FC:/Users/Lynne/Desktop/u/Microsystem/dm_1k.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 <nl<_Og3]7;KcVjJ<gm0a2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/dm_1k.v|
+!s108 1657040463.930000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/dm_1k.v|
+vdm_reg
+Vi@6]MJmz[U8EUfBHTbfV^3
+r1
+31
+I3_agU2CA_II8_=>2M[:Ok0
+R3
+w1656563012
+8C:/Users/Lynne/Desktop/u/Microsystem/dm_reg.v
+FC:/Users/Lynne/Desktop/u/Microsystem/dm_reg.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 RggC<TEo>ZX1od0j`05`=3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/dm_reg.v|
+!s108 1657040464.058000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/dm_reg.v|
+vext
+V90gUTITY2dF2lFWLm5hE;2
+r1
+31
+InhQeWT0b<nbVTN>3`PGHZ1
+R3
+w1656156595
+8C:/Users/Lynne/Desktop/u/Microsystem/ext.v
+FC:/Users/Lynne/Desktop/u/Microsystem/ext.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 DjO2]_CJaf>I=glXeI]JG0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/ext.v|
+!s108 1657040464.186000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/ext.v|
+vgpr
+VcM=`XXA_PB@>C;omYmW2M0
+r1
+31
+I1WC7S6T<2K@`OWR<Z:jQl0
+R3
+w1656571513
+8C:/Users/Lynne/Desktop/u/Microsystem/gpr.v
+FC:/Users/Lynne/Desktop/u/Microsystem/gpr.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 ]hU5aXRf==TH]WdH8Q7<Z1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/gpr.v|
+!s108 1657040464.315000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/gpr.v|
+vim_lk
+VE1Rk2QJmKJa6^[WmUoB_M2
+r1
+31
+Ih31zIRfUd[geAB3AkjkLn3
+R3
+w1656497573
+8C:/Users/Lynne/Desktop/u/Microsystem/im_1k.v
+FC:/Users/Lynne/Desktop/u/Microsystem/im_1k.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 Vb12nOI[P=6z3j2GOW]9R0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/im_1k.v|
+!s108 1657040464.455000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/im_1k.v|
+vim_reg
+V9W5?KVPRdR[_ikhAfWJNm2
+r1
+31
+IIdXK<loVoCYP@UGjmkVPz2
+R3
+w1656563018
+8C:/Users/Lynne/Desktop/u/Microsystem/im_reg.v
+FC:/Users/Lynne/Desktop/u/Microsystem/im_reg.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 2R:o7n84d=kj;U=`3m1g=3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/im_reg.v|
+!s108 1657040464.631000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/im_reg.v|
+vinputdev
+!i10b 1
+VmjKN1cPH;Z1_o@Y[bd^Iz0
+r1
+!s85 0
+31
+I8dgQ[@aBPgeR1W6V8bN`21
+R3
+w1656436162
+8C:/Users/Lynne/Desktop/u/Microsystem/inputdev.v
+FC:/Users/Lynne/Desktop/u/Microsystem/inputdev.v
+L0 1
+R1
+R2
+!s100 e]B]@1Znh9BHz8GSOCI?;1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/inputdev.v|
+!s108 1657040466.501000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/inputdev.v|
+vlb
+VCchbYETXeaMP0>P84a5ZE0
+r1
+31
+Il4lzlN7lL4m7d6<bdl08g2
+R3
+w1656298844
+8C:/Users/Lynne/Desktop/u/Microsystem/lb.v
+FC:/Users/Lynne/Desktop/u/Microsystem/lb.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 64L6?:13coSJ5`h8BV4e`1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/lb.v|
+!s108 1657040465.057000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/lb.v|
+vmach
+VNf>IC<7^ala?AS1`mkGlM3
+r1
+31
+If=KkgVh[eEPKRS0m^=7kK2
+R3
+w1656443647
+8C:/Users/Lynne/Desktop/u/Microsystem/mach.v
+FC:/Users/Lynne/Desktop/u/Microsystem/mach.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 S]<f9KB@I4NDLL:Nz1OFI1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/mach.v|
+!s108 1657040466.776000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/mach.v|
+vmips
+VViUQ4jKaVgkGZ0T8[feD>3
+r1
+31
+IPd>aDDSkMOW[nFQc7VDVI1
+R3
+w1656579093
+8C:/Users/Lynne/Desktop/u/Microsystem/mips.v
+FC:/Users/Lynne/Desktop/u/Microsystem/mips.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 ]@<Y^SkMiCAY;f3^L=m3>2
+!s108 1657040465.193000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/mips.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/mips.v|
+vmux1
+VMC1@MNb5IngT<OSG^]kOE2
+r1
+31
+I4_`WQ`U@3lcUONlZBXoCU2
+R3
+w1656156993
+8C:/Users/Lynne/Desktop/u/Microsystem/mux1.v
+FC:/Users/Lynne/Desktop/u/Microsystem/mux1.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 HN`DO=SP;03l;h;dNjaR`2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/mux1.v|
+!s108 1657040465.325000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/mux1.v|
+vmux2
+VeNPU:]`YmG79?hk_GJ^ha2
+r1
+31
+I@aBGAKY1];2DY;MFMYm==2
+R3
+w1656579414
+8C:/Users/Lynne/Desktop/u/Microsystem/mux2.v
+FC:/Users/Lynne/Desktop/u/Microsystem/mux2.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 4WggB>]A@mKhPe<GR=hIV3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/mux2.v|
+!s108 1657040465.441000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/mux2.v|
+vmux3
+VJVJmaEULXX6Gd9hVXl_gJ3
+r1
+31
+IiLf1]m;4>[?kNZWfWO^C12
+R3
+w1656157123
+8C:/Users/Lynne/Desktop/u/Microsystem/mux3.v
+FC:/Users/Lynne/Desktop/u/Microsystem/mux3.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 H943i4GQ1RDRE3C6FI;oV3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/mux3.v|
+!s108 1657040465.553000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/mux3.v|
+vNextPC
+V`C;:Q97E@NG2OdjfjU]m63
+r1
+31
+I9:n:iX0BS[<U47NTH@U^I0
+R3
+w1656587072
+8C:/Users/Lynne/Desktop/u/Microsystem/NextPC.v
+FC:/Users/Lynne/Desktop/u/Microsystem/NextPC.v
+L0 1
+R1
+R2
+n@next@p@c
+!i10b 1
+!s85 0
+!s100 SHP0Uh9>RCo=hPH6o^?><0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/NextPC.v|
+!s108 1657040465.665000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/NextPC.v|
+voutputdev
+V@i:jQbKiWCX:OZI4cgRWe3
+r1
+31
+I7nGSm<Q6cbA0n`NeD^g6@2
+R3
+w1656613492
+8C:/Users/Lynne/Desktop/u/Microsystem/outputdev.v
+FC:/Users/Lynne/Desktop/u/Microsystem/outputdev.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 <ak^zjS^m3CgoOHmF2?YW1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/outputdev.v|
+!s108 1657040466.994000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/outputdev.v|
+vpc
+VPSO1mG5mK6Ll4d1i;=1aZ1
+r1
+31
+IDO=0BU_;``:L79JNZz^`Y0
+R3
+w1656569046
+8C:/Users/Lynne/Desktop/u/Microsystem/pc.v
+FC:/Users/Lynne/Desktop/u/Microsystem/pc.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 a4zSdm`Og<7E^0l2oCUg?0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/pc.v|
+!s108 1657040465.769000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/pc.v|
+vsb
+VP]PoZkf9iX`V3B942g:lf2
+r1
+31
+I4T6`oHbTXgYjU3>3_XFlN0
+R3
+w1656259943
+8C:/Users/Lynne/Desktop/u/Microsystem/sb.v
+FC:/Users/Lynne/Desktop/u/Microsystem/sb.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 NfkndfiB00VSaIMUzA_:11
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/sb.v|
+!s108 1657040465.885000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/sb.v|
+vtest_mips
+Vl@`E]gBIabMg]FLX>P3LC2
+r1
+31
+I;_:9mAgAiJO<A:NX6cNbd1
+R3
+w1656566882
+8C:/Users/Lynne/Desktop/u/Microsystem/test_mips.v
+FC:/Users/Lynne/Desktop/u/Microsystem/test_mips.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 XIVXIUKQ7Q:`SMP6kSIR?3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/test_mips.v|
+!s108 1657040465.993000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/test_mips.v|
+vtimer
+VIgTCGhgDSGjoLaKEQ0`VS3
+r1
+31
+IM31_gBDcnGH:=K?a909kQ2
+R3
+w1656615353
+8C:/Users/Lynne/Desktop/u/Microsystem/timer.v
+FC:/Users/Lynne/Desktop/u/Microsystem/timer.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Microsystem/timer.v|
+!s100 eRgfXhmb;1LLLmbPN980b2
+!s108 1657040466.221000
+!s107 C:/Users/Lynne/Desktop/u/Microsystem/timer.v|

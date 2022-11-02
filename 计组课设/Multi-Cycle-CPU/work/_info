@@ -1,0 +1,370 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Lynne\Desktop\u
+vA_reg
+V8R8R2mM_A@>kGNHEUdd]02
+r1
+31
+I1UHXI2Qc66`XJTV9XiJUM2
+Z0 dC:\Users\Lynne\Desktop\u\CPU
+w1656156366
+8C:/Users/Lynne/Desktop/u/CPU/A_reg.v
+FC:/Users/Lynne/Desktop/u/CPU/A_reg.v
+L0 1
+Z1 OE;L;10.1a;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a_reg
+!i10b 1
+!s85 0
+!s100 VKbYo24YR23RDhL;n3;>b0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/A_reg.v|
+!s108 1657017438.959000
+!s107 C:/Users/Lynne/Desktop/u/CPU/A_reg.v|
+vALU
+VzP[Dj;4S9oOkfHOcc<22z0
+r1
+31
+Ij?U:GBXeA03FO=824XAZ>3
+Z3 dC:\Users\Lynne\Desktop\u\CPU
+w1656239690
+8C:/Users/Lynne/Desktop/u/CPU/ALU.v
+FC:/Users/Lynne/Desktop/u/CPU/ALU.v
+L0 1
+R1
+R2
+n@a@l@u
+!i10b 1
+!s85 0
+!s100 0:GfH29VOeo7;LhR`T9Ck3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/ALU.v|
+!s108 1657017439.035000
+!s107 C:/Users/Lynne/Desktop/u/CPU/ALU.v|
+vALU_reg
+VJWlWYKn88aX<XE^ih1m^`3
+r1
+31
+I=bYgWXbiPiWWYG;nE4G:21
+R3
+w1656229797
+8C:/Users/Lynne/Desktop/u/CPU/ALU_reg.v
+FC:/Users/Lynne/Desktop/u/CPU/ALU_reg.v
+L0 1
+R1
+R2
+n@a@l@u_reg
+!i10b 1
+!s85 0
+!s100 D`>:5QO5B_nl?4a8FNTlf0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/ALU_reg.v|
+!s108 1657017439.099000
+!s107 C:/Users/Lynne/Desktop/u/CPU/ALU_reg.v|
+vB_reg
+Vj>;=QU^oCih0QALmQcNDa3
+r1
+31
+IBPBd6TUHAiWaTBcS5d9O;3
+R3
+w1656156404
+8C:/Users/Lynne/Desktop/u/CPU/B_reg.v
+FC:/Users/Lynne/Desktop/u/CPU/B_reg.v
+L0 1
+R1
+R2
+n@b_reg
+!i10b 1
+!s85 0
+!s100 31PYBhL4d;o8b=eZb=ZiP0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/B_reg.v|
+!s108 1657017439.162000
+!s107 C:/Users/Lynne/Desktop/u/CPU/B_reg.v|
+vcontroller
+V[]?eH=?4DDH35mzYgHaQP1
+r1
+31
+IL1V6=3ccPd^:l8>;>^0Xj2
+R3
+w1657017422
+8C:/Users/Lynne/Desktop/u/CPU/controller.v
+FC:/Users/Lynne/Desktop/u/CPU/controller.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/controller.v|
+!s100 m71@VEb]KU3c@gaZ_CT9Q3
+!s108 1657017439.225000
+!s107 C:/Users/Lynne/Desktop/u/CPU/controller.v|
+vdm_1k
+VHb_zdC1410ZkAGc[T]_4^2
+r1
+31
+I>IFZB_1c@8k^Ck^G<1;_Q0
+R3
+w1656263461
+8C:/Users/Lynne/Desktop/u/CPU/dm_1k.v
+FC:/Users/Lynne/Desktop/u/CPU/dm_1k.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 6[BRSBYVBCMi99f@Xn5V`1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/dm_1k.v|
+!s108 1657017439.289000
+!s107 C:/Users/Lynne/Desktop/u/CPU/dm_1k.v|
+vdm_reg
+!i10b 1
+Vi@6]MJmz[U8EUfBHTbfV^3
+r1
+!s85 0
+31
+IH3P1Y;GWVIzF:hnLEzTF01
+R3
+w1656229763
+8C:/Users/Lynne/Desktop/u/CPU/dm_reg.v
+FC:/Users/Lynne/Desktop/u/CPU/dm_reg.v
+L0 1
+R1
+R2
+!s100 a99<Rl[N>mF:D0Y;:YJ4H2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/dm_reg.v|
+!s108 1657017439.352000
+!s107 C:/Users/Lynne/Desktop/u/CPU/dm_reg.v|
+vext
+V90gUTITY2dF2lFWLm5hE;2
+r1
+31
+IE;9XgQ@>>m:YQPAElOD=b0
+R3
+w1656156595
+8C:/Users/Lynne/Desktop/u/CPU/ext.v
+FC:/Users/Lynne/Desktop/u/CPU/ext.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 G:MDed1jS0PGHb:EKef7A3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/ext.v|
+!s108 1657017439.416000
+!s107 C:/Users/Lynne/Desktop/u/CPU/ext.v|
+vgpr
+VcM=`XXA_PB@>C;omYmW2M0
+r1
+31
+IiQJ=Uje_=dgPbLVGK4G8c3
+R3
+w1656156772
+8C:/Users/Lynne/Desktop/u/CPU/gpr.v
+FC:/Users/Lynne/Desktop/u/CPU/gpr.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 VJW[]PS8dh];Yd77k7mj]0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/gpr.v|
+!s108 1657017439.480000
+!s107 C:/Users/Lynne/Desktop/u/CPU/gpr.v|
+vim_lk
+VCeU9gEdSlCF4=j1UL?P330
+r1
+31
+IjnlBm^[2^VJ`5=LkCMHJl2
+R3
+w1656149505
+8C:/Users/Lynne/Desktop/u/CPU/im_1k.v
+FC:/Users/Lynne/Desktop/u/CPU/im_1k.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 9RR2<^MAg`I]`FWT8z;<l1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/im_1k.v|
+!s108 1657017439.542000
+!s107 C:/Users/Lynne/Desktop/u/CPU/im_1k.v|
+vim_reg
+V9W5?KVPRdR[_ikhAfWJNm2
+r1
+31
+I4KEVP21Qe^S4F9CDB@i=c0
+R3
+w1656173793
+8C:/Users/Lynne/Desktop/u/CPU/im_reg.v
+FC:/Users/Lynne/Desktop/u/CPU/im_reg.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 iGPQ8iRI8chegR;d<11:42
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/im_reg.v|
+!s108 1657017439.593000
+!s107 C:/Users/Lynne/Desktop/u/CPU/im_reg.v|
+vlb
+VCchbYETXeaMP0>P84a5ZE0
+r1
+31
+I0763LMJE;:W5:nmOo156<2
+R3
+w1656298844
+8C:/Users/Lynne/Desktop/u/CPU/lb.v
+FC:/Users/Lynne/Desktop/u/CPU/lb.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 ihC[KRodDzEnG[BV4KRYC3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/lb.v|
+!s108 1657017440.134000
+!s107 C:/Users/Lynne/Desktop/u/CPU/lb.v|
+vmips
+IRNMC84jdc7KQ6jj7bGHdH0
+V^lO[ZOI0I1e8M8GJjI9B:3
+R3
+w1656262999
+8C:/Users/Lynne/Desktop/u/CPU/mips.v
+FC:/Users/Lynne/Desktop/u/CPU/mips.v
+L0 1
+R1
+r1
+31
+R2
+!s100 lF9MJ7X]6=ccWU1b1@iLE0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/mips.v|
+!s108 1657017439.669000
+!s107 C:/Users/Lynne/Desktop/u/CPU/mips.v|
+!i10b 1
+!s85 0
+vmux1
+VMC1@MNb5IngT<OSG^]kOE2
+r1
+31
+IU9DHcX7<SkI`_die<b9<Z3
+R3
+w1656156993
+8C:/Users/Lynne/Desktop/u/CPU/mux1.v
+FC:/Users/Lynne/Desktop/u/CPU/mux1.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 nT`meUH:U]zFPbfIh@1Mh2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/mux1.v|
+!s108 1657017439.731000
+!s107 C:/Users/Lynne/Desktop/u/CPU/mux1.v|
+vmux2
+VYlZK;@F`lBo<jEE_VEoP=2
+r1
+31
+IF4WbOcHQ4;QOXaOEB8oMU2
+R3
+w1656157066
+8C:/Users/Lynne/Desktop/u/CPU/mux2.v
+FC:/Users/Lynne/Desktop/u/CPU/mux2.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 WWZPYD^9?UNCa65Yd0TY93
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/mux2.v|
+!s108 1657017439.794000
+!s107 C:/Users/Lynne/Desktop/u/CPU/mux2.v|
+vmux3
+VJVJmaEULXX6Gd9hVXl_gJ3
+r1
+31
+Izn:Dhz`Co_RhjhBHCTWn;0
+R3
+w1656157123
+8C:/Users/Lynne/Desktop/u/CPU/mux3.v
+FC:/Users/Lynne/Desktop/u/CPU/mux3.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 PBcE^kMYLbh:b;dN@U;lN1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/mux3.v|
+!s108 1657017439.858000
+!s107 C:/Users/Lynne/Desktop/u/CPU/mux3.v|
+vNextPC
+V?nC<G[z@CFIkb_OnXA?;N1
+r1
+31
+IJ6I[C9]OXiJ5kFheISH;z0
+R3
+w1656255508
+8C:/Users/Lynne/Desktop/u/CPU/NextPC.v
+FC:/Users/Lynne/Desktop/u/CPU/NextPC.v
+L0 1
+R1
+R2
+n@next@p@c
+!i10b 1
+!s85 0
+!s100 Z[Z:?V1D6T4nEPU5CT`MS2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/NextPC.v|
+!s108 1657017439.909000
+!s107 C:/Users/Lynne/Desktop/u/CPU/NextPC.v|
+vpc
+Vic=`>DUKg7=F2@O76^?@i0
+r1
+31
+IJ^IBGI43VX3IO>=b0@MKD2
+R3
+w1656174104
+8C:/Users/Lynne/Desktop/u/CPU/pc.v
+FC:/Users/Lynne/Desktop/u/CPU/pc.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 WWz0A_cbV^7Z[IO7[Hd7Z3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/pc.v|
+!s108 1657017439.977000
+!s107 C:/Users/Lynne/Desktop/u/CPU/pc.v|
+vsb
+VP]PoZkf9iX`V3B942g:lf2
+r1
+31
+IZ>TWfCmVNKSQEdCJjWe`A2
+R3
+w1656259943
+8C:/Users/Lynne/Desktop/u/CPU/sb.v
+FC:/Users/Lynne/Desktop/u/CPU/sb.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 @m8`@MUIb6mBZ9SES9>a31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/sb.v|
+!s108 1657017440.230000
+!s107 C:/Users/Lynne/Desktop/u/CPU/sb.v|
+vtest_mips
+Vl@`E]gBIabMg]FLX>P3LC2
+r1
+31
+IdS@c@;>ZG`fo]<Vmk3D8k2
+R3
+w1656263240
+8C:/Users/Lynne/Desktop/u/CPU/test_mips.v
+FC:/Users/Lynne/Desktop/u/CPU/test_mips.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 mZEh7jz6JXOJ]Y8T^zGPU0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/CPU/test_mips.v|
+!s108 1657017440.054000
+!s107 C:/Users/Lynne/Desktop/u/CPU/test_mips.v|

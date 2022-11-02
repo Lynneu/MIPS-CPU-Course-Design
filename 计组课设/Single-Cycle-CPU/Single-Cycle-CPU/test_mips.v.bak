@@ -1,0 +1,50 @@
+module test_mips;
+  reg clk,rst;
+  wire[31:0] ins,npc,cpc,memout,write_data,
+             sltout,pc4;
+  wire signed [31:0] bushB,extout;
+  wire signed [31:0] bushA,b,alu_out;
+  wire if_jr,if_beq,if_j,memwr,regwr,alusrc,regwr_yichu,zero;
+  wire[1:0] gpr_data_choose,regdst,extop;
+  wire[2:0] alustr;
+  wire[4:0] m1out;
+  wire[9:0] addr,dm_addr;
+  integer i;
+  controller my_controller(ins,if_jr,if_beq,if_j,memwr,gpr_data_choose,
+                  regwr,regdst,alusrc,alustr,extop);
+  pc my_pc(clk,rst,npc,cpc,addr);
+  im_lk my_im_lk(addr,ins);
+  calculate_pc my_calculate_pc(cpc,ins,if_beq,zero,if_j,npc,if_jr,pc4,bushA);
+  gpr my_gpr(clk,rst,regwr,regwr_yichu,ins,m1out,write_data,bushA,bushB);
+  ext my_ext(extop,ins,extout);
+  dm_1k my_dm_1k(dm_addr,bushB,memwr,clk,memout);
+  ALU my_ALU(bushA,b,alustr,alu_out,zero,regwr_yichu,sltout,dm_addr);
+  mux1 my_mux1(regdst,ins,m1out);
+  mux2 my_mux2(gpr_data_choose,write_data,alu_out,memout,pc4,sltout);
+  mux3 my_mux3(alusrc,bushB,extout,b);
+  initial
+  begin
+    clk=1;rst=0;
+    #5 rst=1;
+    #5 rst=0;
+    $readmemh("srav.txt",my_im_lk.im);
+  end
+  always
+  begin
+    //for(i=0;i<32;i=i+1) $display("%h",my_gpr.register[i]);
+    $display("%h",my_dm_1k.dout);
+    $display("0000");
+    $display("%h",my_mux2.dm_out);
+    $display("1111");
+    $display("%h",my_dm_1k.addr);
+    $display("2222");
+    $display("%h",my_mux2.write_data);
+    #30 clk=~clk;
+  end
+endmodule
+  
+  
+  
+  
+  
+

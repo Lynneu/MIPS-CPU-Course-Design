@@ -1,0 +1,141 @@
+C:/Users/Lynne/Desktop/u/CPU/test_mips.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/test_mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module test_mips
+
+Top level modules:
+	test_mips
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/gpr.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/gpr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module gpr
+
+Top level modules:
+	gpr
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/im_reg.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/im_reg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_reg
+
+Top level modules:
+	im_reg
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/dm_1k.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/dm_1k.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_1k
+
+Top level modules:
+	dm_1k
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/sb.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/sb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module sb
+
+Top level modules:
+	sb
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/lb.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/lb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module lb
+
+Top level modules:
+	lb
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/dm_reg.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/dm_reg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_reg
+
+Top level modules:
+	dm_reg
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/A_reg.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/A_reg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module A_reg
+
+Top level modules:
+	A_reg
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/ALU_reg.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/ALU_reg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU_reg
+
+Top level modules:
+	ALU_reg
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/B_reg.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/B_reg.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module B_reg
+
+Top level modules:
+	B_reg
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/im_1k.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/im_1k.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_lk
+
+Top level modules:
+	im_lk
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/mips.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/ext.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/ext.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ext
+
+Top level modules:
+	ext
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/ALU.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/ALU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/NextPC.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/NextPC.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module NextPC
+
+Top level modules:
+	NextPC
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/mux1.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/mux1.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux1
+
+Top level modules:
+	mux1
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/pc.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/controller.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/controller.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/mux2.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/mux2.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/Lynne/Desktop/u/CPU/mux3.v {1 {vlog -work work -vopt C:/Users/Lynne/Desktop/u/CPU/mux3.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}}

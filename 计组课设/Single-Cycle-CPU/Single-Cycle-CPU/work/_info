@@ -1,0 +1,258 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Lynne\Desktop\u\Homework(1)
+vALU
+VzP[Dj;4S9oOkfHOcc<22z0
+r1
+31
+IFQRhJE=5V[:@OBk7PVML?3
+Z0 dC:\Users\Lynne\Desktop\u\Single-Cycle-CPU
+w1655213094
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ALU.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ALU.v
+L0 1
+Z1 OE;L;10.1a;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!i10b 1
+!s85 0
+!s100 7USU=8N4a67aAGDF8jFmI2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ALU.v|
+!s108 1655223977.002000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ALU.v|
+vcalculate_pc
+VVXK2DEIeS;D=;1H>@4NO81
+r1
+31
+IR^>>1E0]S_9]0^T:jn1880
+Z3 dC:\Users\Lynne\Desktop\u\Single-Cycle-CPU
+w1654544937
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/calculate_pc.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/calculate_pc.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 b698I[HPU5gjg9;52EzKb3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/calculate_pc.v|
+!s108 1655223977.139000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/calculate_pc.v|
+vcontroller
+VaoQLM=T9;fMC3YKDhgz<n0
+r1
+31
+I_T8EGDObOJJT2l3720Tz]3
+R3
+w1654547775
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/controller.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/controller.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 a1fA==ReZFoKHbBY2gZZ32
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/controller.v|
+!s108 1655223977.243000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/controller.v|
+vdm_1k
+VHb_zdC1410ZkAGc[T]_4^2
+r1
+31
+ITl4c>>=@?;KTXI3P6GOA11
+R3
+w1654564190
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/dm_1k.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/dm_1k.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 2:J=FQH:g4dILB=RQfn4U0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/dm_1k.v|
+!s108 1655223977.344000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/dm_1k.v|
+vext
+V90gUTITY2dF2lFWLm5hE;2
+r1
+31
+I>nea63kK3E40]ieNBi?:32
+R3
+w1654542341
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ext.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ext.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 XMiB2Xh2iU^6F?0_oK]W30
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ext.v|
+!s108 1655223977.452000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ext.v|
+vgpr
+VcM=`XXA_PB@>C;omYmW2M0
+r1
+31
+InZjR>G_Z9WKS]A0Tz1jii2
+R3
+w1655217936
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/gpr.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/gpr.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 z3z:n0jgE9gHMcA`giWSI0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/gpr.v|
+!s108 1655223977.548000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/gpr.v|
+vifu
+IzCS2f:]ENeceG2g56Jf_N3
+V?l`PjR^J_loNg8OB9TPCK1
+R3
+w1654542376
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ifu.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ifu.v
+L0 1
+R1
+r1
+31
+R2
+!s100 MG;a8CAX333G43k7zlmYY3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ifu.v|
+!s108 1655223977.647000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/ifu.v|
+!i10b 1
+!s85 0
+vim_lk
+VCeU9gEdSlCF4=j1UL?P330
+r1
+31
+I1MC@B]Lam34OejQK>9Yjl2
+R3
+w1654542332
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/im_lk.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/im_lk.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 GE?:U8@d:>K3B7FRI[UVg3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/im_lk.v|
+!s108 1655223977.742000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/im_lk.v|
+vmips
+I1TCXYTndMiQEc8hb32cz<0
+V^lO[ZOI0I1e8M8GJjI9B:3
+R3
+w1655223802
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mips.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mips.v
+L0 1
+R1
+r1
+31
+R2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mips.v|
+!s100 jNCAg:^m>Ld[:8MV[BZ8>2
+!s108 1655223977.840000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mips.v|
+!i10b 1
+!s85 0
+vmux1
+VMC1@MNb5IngT<OSG^]kOE2
+r1
+31
+I6miFEX65eH^Q_Af=TUzQ>0
+R3
+w1654542324
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux1.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux1.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 ga^8^jkgXe@6kjgVhZzVZ1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux1.v|
+!s108 1655223977.942000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux1.v|
+vmux2
+VYlZK;@F`lBo<jEE_VEoP=2
+r1
+31
+IoS^_;chNmDZ4oD15LA1R33
+R3
+w1654541931
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux2.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux2.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 SL191Ud`5FX:f;3>cjG`90
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux2.v|
+!s108 1655223978.056000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux2.v|
+vmux3
+!i10b 1
+VJVJmaEULXX6Gd9hVXl_gJ3
+r1
+!s85 0
+31
+IUdPL=WDLP0TKRJ`P>PjBz0
+R3
+w1654541988
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux3.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux3.v
+L0 1
+R1
+R2
+!s100 W^NobV8l:ImXYjmV4NGSG2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux3.v|
+!s108 1655223978.168000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/mux3.v|
+vpc
+V>_=PH?RNg3LFPlajTj93c0
+r1
+31
+IfWQ2b[ZdHK0nN=DA2<m:N3
+R3
+w1654542040
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/pc.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/pc.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 Q5J25ZL0Mif:K@JkFO6gF0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/pc.v|
+!s108 1655223978.302000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/pc.v|
+vtest_mips
+Vl@`E]gBIabMg]FLX>P3LC2
+r1
+31
+ISFd7gWS[h<6XOW9J=IMH63
+R3
+w1654542731
+8C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/test_mips.v
+FC:/Users/Lynne/Desktop/u/Single-Cycle-CPU/test_mips.v
+L0 1
+R1
+R2
+!i10b 1
+!s85 0
+!s100 J>^DkW<Ff[IGnRRHWCh>o0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/test_mips.v|
+!s108 1655223978.475000
+!s107 C:/Users/Lynne/Desktop/u/Single-Cycle-CPU/test_mips.v|
