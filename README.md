@@ -1,4 +1,4 @@
-# MIPS-CPU
+# MIPS-CPU-Course-Design
 
 ### BJUT 计算机组成原理课程设计
 
